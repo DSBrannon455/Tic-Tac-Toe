@@ -11,4 +11,4 @@ For my first project, I chose to do Tic Tac Toe because I thought it was within 
 
 I was not able to solve the problem of play continuing after a winner was declared.  This will be a forthcoming feature. -->
 
-![Tic Tac Toe](https://drive.google.com/file/d/17iWHNnAXg6R58WeL5IlscwaoTQoHijuA/view?usp=sharing)
+![Tic Tac Toe](https://i.imgur.com/FYIbtH3.png)
